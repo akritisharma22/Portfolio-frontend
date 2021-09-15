@@ -1,0 +1,31 @@
+.home__page{
+    height:89vh;
+    background: linear-gradient(90deg, rgb(195,230,204) 50%, white 50%);
+    width: 100%;  
+}
+
+.home_div{
+    padding: 15%;
+    position: relative;
+    
+    
+}
+
+.home_div,
+  .home_page,
+  .h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+  
+}
+
+.home_div:after,
+.home_div:before {
+  position: absolute;
+  width:50%;
+  height:100%;
+  z-index: -1;
+}

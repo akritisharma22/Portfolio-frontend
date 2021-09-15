@@ -1,0 +1,46 @@
+.profile-img > img {
+    padding: 5px;
+    width: 200px;
+    height: 260px;
+    padding-left: 20px;
+    margin-left: 120px;
+    padding-bottom: 30px;
+    padding-top: 40px;
+}
+
+.profile-work{
+    margin-left: 120px;
+    padding-left: 20px;
+}
+
+.profile-work > a{
+    display: flex;
+    flex-direction: row;
+}
+
+.profile-work > p{
+    font-size: 25px;
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+
+.profile_head{
+    padding-top:40px;
+    font-weight: 600;
+}
+
+.edit-button {
+    padding-top: 40px;
+}
+
+.edit-button > input {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 11px 39px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 30px;
+}

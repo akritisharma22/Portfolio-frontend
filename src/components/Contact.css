@@ -1,0 +1,20 @@
+.contact_info{
+    padding-top: 30px;
+}
+
+.contact_form_text > textarea {
+    width: 100%;
+}
+
+.contact_form_button > button{
+    align-items: center;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 11px 39px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
